@@ -1,0 +1,27 @@
+#homePage {
+  padding-left: 200px;
+  padding-top: 40px;
+}
+
+#homePage-Analysis {
+  border: 1px solid black;
+  width: 35%;
+  padding: 10px;
+}
+#AnalysisImg {
+}
+.a {
+  font-size: small;
+}
+#AnalysisImg > div {
+  border: 1px solid black;
+  margin: 20px;
+  padding: 15px;
+  border-radius: 15px;
+  text-align: center;
+}
+#AnalysisLogo {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}

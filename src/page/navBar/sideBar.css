@@ -1,0 +1,21 @@
+#SideBar{
+    background: rgb(3, 3, 155);
+    width: 150px;
+    height: 100%;
+    position: fixed;
+    color: white;
+   text-decoration: none;
+}
+#SideBar>ul{
+   list-style: none;
+}
+.sidebar_meun{
+font-size: 1.12rem;
+width: 100%;
+margin-left: -40px;
+padding: 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+color:white;
+}

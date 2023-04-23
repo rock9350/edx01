@@ -1,0 +1,27 @@
+#SideBarMod{
+    padding-left: 160px;
+    background: rgb(222, 225, 243);
+    width: 15%;
+    position: fixed;
+    height: 100%;
+    z-index: -1;
+}
+#SideBarMod>ul{
+    list-style: none;
+}
+
+.sidebar_Mod{
+    font-size: 1rem;
+    width: 100%;
+    padding: 20px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+#SideBarMod>ul>li{
+margin-left: -50px;
+padding: 10px 0px 10px 20px;
+display: flex;
+align-items: center;
+}
